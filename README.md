@@ -1,8 +1,10 @@
-# Talk template
-
-Template para github para crear nuevas charlas y presentaciones. 
-Tiene la estructura definida para MIS charlas.
-
-No es necesario clonar. Al crear un nuevo repositorio, usar "template" y seleccionar "talk_template".
-
-Ejemplo funcionando: [links.html](https://sebastiandres.github.io/talk_template/)
+## Charla
+* **Fecha**: 29 Noviembre 2021
+* **Título**: Programar y Reprogramar Recursos para Docentes (Python + Jupyter)
+* **Resumen**: En este taller queremos compartir la experiencia de resolver programando en un lenguaje como Python los recursos de enseñanza para docentes de distintos niveles, también usamos un FrameWork como Proyecto Jupyter y su infraestructura (VPS) la cual nos permite una mejor interactividad con el Docente en el uso de los recursos programados y reprogramados.
+* **Lugar**: Pycon Argentina, 2021
+* **Tipo**: Taller
+* **Nivel**: Principiante
+* **Disertantes**: Sofía Martin, Ariel Ramos, Liliana Hurtado, Sebastián Flores Benner
+* **Contexto**: 
+* **Visualización**: [Diversas opciones](https://sebastiandres.github.io/pycon_ar)
