@@ -8,7 +8,7 @@
 * **Disertantes**: Sofía Martin, Ariel Ramos, Liliana Hurtado, Sebastián Flores Benner
 * **Contexto**: 
 * **Visualización**: [Diversas opciones](https://sebastiandres.github.io/pycon_ar)
-* **Videos Ayuda Memoria**: para quienes esten iniciando con **Jupyter Notebook** y acceder a usar un **VPS**
+* **Videos Ayuda Memoria**: para quienes esten iniciando con **Jupyter Notebook** y en acceder a usar un **VPS**
 * Armado y Edicion : **Enzo Juarez** (https://github.com/enzzo19/Preguntas-Frecuentes-Taller-PRRD-en-PyConAr-2021)
 
 * ¿Como Puedo Iniciar/Cerrar sesión en mi Plataforma Digital? https://youtu.be/uIE-PpvS_Pw
