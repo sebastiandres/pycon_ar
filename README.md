@@ -23,3 +23,5 @@ gracias a Enzo Juarez - [@enzzo19](https://github.com/enzzo19/):
 * ¿Como puedo ejecutar las celdas de codigo de mi cuaderno? https://youtu.be/UoBj56InY3M
 * ¿Existe un orden de ejecucion dentro de mi cuaderno? https://youtu.be/Pfu__JzoaDg
 * ¿Que hago si me sale de un Error de Conexión?  https://youtu.be/UCDmdZnjtko
+
+Video: ¿Cómo armar un VPS? https://youtu.be/P8w0OtG2Rdw
