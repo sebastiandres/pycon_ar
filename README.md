@@ -24,4 +24,6 @@ gracias a Enzo Juarez - [@enzzo19](https://github.com/enzzo19/):
 * ¿Existe un orden de ejecucion dentro de mi cuaderno? https://youtu.be/Pfu__JzoaDg
 * ¿Que hago si me sale de un Error de Conexión?  https://youtu.be/UCDmdZnjtko
 
-Video: ¿Cómo armar un VPS? https://youtu.be/P8w0OtG2Rdw
+Otros videos:
+* ¿Cómo armar un VPS? https://youtu.be/P8w0OtG2Rdw
+* Grabación del taller: https://www.youtube.com/watch?v=L-j9vZdgAOs
