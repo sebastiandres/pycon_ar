@@ -32,3 +32,7 @@ Bibliografia OnLine
 * IPython Cookbook, Second Edition (2018): https://ipython-books.github.io/
 * Capitulo 3.3. Mastering widgets in the Jupyter Notebook: https://ipython-books.github.io/33-mastering-widgets-in-the-jupyter-notebook/
 * Autor: Cyrille Rossant, Phd : https://cyrille.rossant.net/
+
+Webs recomendadas
+* Learning Scientific Programming with Python: https://scipython.com/
+* Scipy Lecture Notes: https://scipy-lectures.org/ One document to learn numerics, science, and data with Python 
