@@ -39,5 +39,6 @@ Webs recomendadas
 * https://scipy-lectures.org/ 
   
 Web Proyecto Jupyter: https://jupyter.org/
+Descripcion Proyecto Jupyter: https://es.wikipedia.org/wiki/Proyecto_Jupyter
 
-Ferando Perez, creador IPython: https://es.wikipedia.org/wiki/Fernando_P%C3%A9rez_(programador)
+Ferando Perez, creador IPython (Base de Proyecto Jupyter): https://es.wikipedia.org/wiki/Fernando_P%C3%A9rez_(programador)
