@@ -25,9 +25,11 @@ gracias a **Enzo Juarez** - [@enzzo19](https://github.com/enzzo19/):
 * ¿Que hago si me sale de un Error de Conexión?  https://youtu.be/UCDmdZnjtko
 
 Otros videos:
-* ¿Cómo armar un **VPS**? con **Jupyter HUB/Notebook**, video: https://youtu.be/P8w0OtG2Rdw, gracias a **Juan Luis Cano Rodriguez** - [@astrojunalu](https://github.com/astrojuanlu) 
-* Grabación del taller: https://www.youtube.com/watch?v=L-j9vZdgAOs
+* Taller: ¿Cómo armar un **VPS**? con **Jupyter HUB/Notebook**, video: https://youtu.be/P8w0OtG2Rdw
+** Desarrollado por: **Juan Luis Cano Rodriguez** - [@astrojunalu](https://github.com/astrojuanlu) 
+* Grabación del taller (Organizacion PyConAr 2021): https://www.youtube.com/watch?v=L-j9vZdgAOs
 
-Bibliografia OnLine, libro: IPython Cookbook, Second Edition (2018): https://ipython-books.github.io/
+Bibliografia OnLine
+* Libro: IPython Cookbook, Second Edition (2018): https://ipython-books.github.io/
 * Capitulo 3.3. Mastering widgets in the Jupyter Notebook: https://ipython-books.github.io/33-mastering-widgets-in-the-jupyter-notebook/
 * Autor: Cyrille Rossant, Phd : https://cyrille.rossant.net/
