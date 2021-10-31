@@ -35,4 +35,4 @@ Bibliografia OnLine
 
 Webs recomendadas
 * Learning Scientific Programming with Python: https://scipython.com/
-* Scipy Lecture Notes: One document to learn numerics, science, and data with Python https://scipy-lectures.org/ 
+* Scipy Lecture Notes. One document to learn numerics, science, and data with Python: https://scipy-lectures.org/ 
