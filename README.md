@@ -35,4 +35,9 @@ Bibliografia OnLine
 
 Webs recomendadas
 * Learning Scientific Programming with Python: https://scipython.com/
-* Scipy Lecture Notes. One document to learn numerics, science, and data with Python: https://scipy-lectures.org/ 
+* Scipy Lecture Notes. One document to learn numerics, science, and 
+  data with Python: https://scipy-lectures.org/ 
+  
+Web Proyecto Jupyter: https://jupyter.org/
+
+Ferando Perez IPython : https://es.wikipedia.org/wiki/Fernando_P%C3%A9rez_(programador)
