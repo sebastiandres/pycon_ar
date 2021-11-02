@@ -1,4 +1,4 @@
-## Charla
+## Taller
 * **Fecha**: 29 Octubre 2021
 * **Título**: Programar y Reprogramar Recursos para Docentes (Python + Jupyter)
 * **Resumen**: En este taller queremos compartir la experiencia de resolver programando y reprogramando en un lenguaje como Python, recursos de enseñanza para docentes de distintos niveles, usamos un FrameWork como Proyecto Jupyter y una infraestructura (VPS) la cual nos permite una buena interaccion con el Docente y los alumnos en el proceso de enseñanza. Fuimos fortaleciendo en experiencias piloto la enseñanza de contenidos academicos.
