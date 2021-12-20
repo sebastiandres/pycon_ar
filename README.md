@@ -25,7 +25,7 @@ gracias a **Enzo Juarez** - [@enzzo19](https://github.com/enzzo19/):
 * ¿Que hago si me sale de un Error de Conexión?  https://youtu.be/UCDmdZnjtko
 
 Otros videos:
-* Taller: ¿Cómo armar un **VPS**? con **Jupyter HUB/Notebook**, video: https://youtu.be/P8w0OtG2Rdw, desarrollado por: **Juan Luis Cano Rodriguez** - [@astrojunalu](https://github.com/astrojuanlu) 
+* Taller: ¿Cómo armar un **VPS**? con **Jupyter HUB/Notebook**, video: https://youtu.be/P8w0OtG2Rdw, desarrollado por: **Juan Luis Cano Rodriguez** - [@astrojuanlu](https://github.com/astrojuanlu) 
 * Grabación del taller (Organizacion PyConAr 2021): https://www.youtube.com/watch?v=L-j9vZdgAOs
 
 Bibliografia OnLine
