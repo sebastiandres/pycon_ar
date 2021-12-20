@@ -6,7 +6,7 @@
 * **Lugar**: Pycon Argentina, 2021
 * **Tipo**: Taller
 * **Nivel**: Principiante
-* **Disertantes**: Ariel Silvio Norberto Ramos, Sofía Martin, Liliana Hurtado, Sebastián Flores Benner
+* **Disertantes**: Ariel Silvio Norberto Ramos, Sofía Martin, Liliana Hurtado, Sebastián Andres Flores Benner (https://github.com/sebastiandres/pycon_ar)
 
 Enlaces útiles:
 Videos Ayuda Memoria: para quienes esten iniciando con Jupyter Notebook y en acceder a usar un VPS, 
